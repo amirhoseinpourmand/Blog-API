@@ -63,8 +63,8 @@ Make sure you have installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_PROJECT_DIRECTORY>
+git clone https://github.com/amirhoseinpourmand/blog-api
+cd blog-api
 ```
 
 Replace the placeholders with your repository URL and directory name.
