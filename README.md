@@ -142,4 +142,11 @@ No application start or test script is currently configured in `package.json`. S
 
 ## License
 
-The package currently declares the **ISC** license. Add a `LICENSE` file to the repository if you intend to distribute the project under that license.
+This project is licensed under the **ISC License**.
+
+---
+
+## Author
+
+Amirhosein Pourmand
+
