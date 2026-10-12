@@ -85,17 +85,6 @@ http://127.0.0.1:3003
 
 Requires authentication and ownership of the post.
 
-### Endpoint Summary
-
-| Method | Endpoint | Authentication | Description |
-|---|---|---|---|
-| `POST` | `/signup` | No | Register a user |
-| `POST` | `/login` | No | Log in |
-| `GET` | `/feed/posts` | Yes | Get all posts |
-| `POST` | `/feed/post` | Yes | Create a post with an image |
-| `GET` | `/feed/post/:postId` | Yes | Get a post by ID |
-| `PUT` | `/feed/post/:postId` | Yes | Update a post |
-| `DELETE` | `/feed/post/:postId` | Yes | Delete a post |
 
 ## Real-Time Events
 
