@@ -144,9 +144,7 @@ No application start or test script is currently configured in `package.json`. S
 
 This project is licensed under the **ISC License**.
 
----
 
 ## Author
 
 Amirhosein Pourmand
-
