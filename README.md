@@ -1,6 +1,6 @@
 # Mini Blog API
 
-A RESTful backend for a blog application built with **Node.js**, **Express**, and **MongoDB**. It supports user registration and login, authenticated post management, image uploads, and Socket.IO events intended to notify connected clients when posts change.
+RESTful backend for a blog application built with **Node.js**, **Express**, and **MongoDB**. It supports user registration and login, authenticated post management, image uploads, and Socket.IO events intended to notify connected clients when posts change.
 
 ## Features
 
